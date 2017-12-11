@@ -1,1 +1,6 @@
 C:\Users\Chez\Desktop\CSharp\BinarySearchTree\BST\BST\bin\Debug\BST.exe.config
+C:\Users\Chez\Desktop\CSharp\BinarySearchTree\BST\BST\bin\Debug\BST.exe
+C:\Users\Chez\Desktop\CSharp\BinarySearchTree\BST\BST\bin\Debug\BST.pdb
+C:\Users\Chez\Desktop\CSharp\BinarySearchTree\BST\BST\obj\Debug\BST.csprojResolveAssemblyReference.cache
+C:\Users\Chez\Desktop\CSharp\BinarySearchTree\BST\BST\obj\Debug\BST.exe
+C:\Users\Chez\Desktop\CSharp\BinarySearchTree\BST\BST\obj\Debug\BST.pdb
