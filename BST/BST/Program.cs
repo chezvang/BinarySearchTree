@@ -14,10 +14,11 @@ namespace BST
             tree.Add(50);
             tree.Add(10);
             tree.Add(60);
-            tree.Add(75);
-            tree.Add(25);
 
-            Console.WriteLine(tree);
+            tree.Search(10);
+
+            Console.WriteLine(tree.Search(10));
+            Console.ReadKey();
         }
     }
 }
